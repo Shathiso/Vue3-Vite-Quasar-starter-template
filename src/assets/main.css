@@ -1,0 +1,14 @@
+
+@import './base.css';
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#app {
+  margin: 0 auto;
+  font-weight: normal;
+}
+
+.q-drawer--left.q-drawer--bordered {
+  border-right: 1px solid rgb(36 39 50);
+}
