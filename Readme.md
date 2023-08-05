@@ -2,7 +2,7 @@
 
 ### Introduction
 
-This is a Vue3 starter template, for anyone who wants to quickly get started building an SPA frontend. This starter template utilizes <a href="https://quasar.dev/">Quasar</a> as a frontend framework, <a href="https://tailwindcss.com/"> Tailwind</a>for styling, <a href="https://pinia.vuejs.org/"> Pinia </a> for State management, <a href="https://vitejs.dev/">Vite </a> for bundling the assets and running a dev server, <a href="https://vitest.dev/">Vitest </a> for unit tests and an example github actions workflow for continuous deployment.
+This is a Vue3 starter template, for anyone who wants to quickly get started building an SPA frontend. This starter template utilizes <a href="https://quasar.dev/">Quasar</a> as a frontend framework, <a href="https://tailwindcss.com/"> Tailwind</a> for styling, <a href="https://pinia.vuejs.org/"> Pinia </a> for State management, <a href="https://vitejs.dev/">Vite </a> for bundling the assets and running a dev server, <a href="https://vitest.dev/">Vitest </a> for unit tests and an example github actions workflow for continuous deployment.
 
 ### Issues
 If you find any issues please log them on the repository.
